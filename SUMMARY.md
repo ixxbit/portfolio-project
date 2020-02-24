@@ -7,8 +7,8 @@
 * [iXcmd](aws-common-config-tasks/useful-commands/README.md)
   * [AWS SDK](aws-common-config-tasks/useful-commands/aws-sdk.md)
   * [Linux](aws-common-config-tasks/useful-commands/linux/README.md)
-    * [iXEssentials.cmd](aws-common-config-tasks/useful-commands/linux/ixessentials.cmd.md)
     * [System Monitoring Tools](aws-common-config-tasks/useful-commands/linux/system-monitoring-tools.md)
+    * [iXEssentials.cmd](aws-common-config-tasks/useful-commands/linux/ixessentials.cmd.md)
     * [chown](aws-common-config-tasks/useful-commands/linux/chown.md)
 * [FAQ](aws-common-config-tasks/faq.md)
 
