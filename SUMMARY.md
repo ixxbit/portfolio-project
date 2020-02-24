@@ -12,10 +12,6 @@
     * [chown](aws-common-config-tasks/useful-commands/linux/chown.md)
 * [FAQ](aws-common-config-tasks/faq.md)
 
-## file.system
-
-* [Untitled](file.system/untitled.md)
-
 ## CLOUD PLATFORMS <a id="cloud"></a>
 
 * [AWS](cloud/aws/README.md)
