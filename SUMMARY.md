@@ -4,9 +4,12 @@
 
 ## HANDY STUFF <a id="aws-common-config-tasks"></a>
 
-* [iX/commands](aws-common-config-tasks/useful-commands/README.md)
-  * [chown](aws-common-config-tasks/useful-commands/chown.md)
-* [AWS SDK](aws-common-config-tasks/aws-sdk.md)
+* [iXcmd](aws-common-config-tasks/useful-commands/README.md)
+  * [AWS SDK](aws-common-config-tasks/useful-commands/aws-sdk.md)
+  * [Linux](aws-common-config-tasks/useful-commands/linux/README.md)
+    * [iXEssentials.cmd](aws-common-config-tasks/useful-commands/linux/ixessentials.cmd.md)
+    * [System Monitoring Tools](aws-common-config-tasks/useful-commands/linux/system-monitoring-tools.md)
+    * [chown](aws-common-config-tasks/useful-commands/linux/chown.md)
 * [FAQ](aws-common-config-tasks/faq.md)
 
 ## file.system

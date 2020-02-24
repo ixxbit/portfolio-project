@@ -1,4 +1,4 @@
-# iX/commands
+# iXcmd
 
 ## Getting Super Powers
 
