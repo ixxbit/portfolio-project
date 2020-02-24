@@ -1,12 +1,14 @@
-# EC2
+---
+description: 'EC2.config:Instance [Optimal Configuration]'
+---
+
+# iX.E2E\|EC2.config
+
+## How to... 
+
+> #### find an optimal EC2 configuration and performance tuning in 5 steps \(with actual performance tests and results\)
 
 
-
-## AWS configuration and performance tuning <a id="HAWSconfigurationandperformancetuning"></a>
-
-Lorem ipsum
-
-## How to find an optimal EC2 configuration in 5 steps \(with actual performance tests and results\) <a id="HHowtofindanoptimalEC2configurationin5steps28withactualperformancetestsandresults29"></a>
 
 ![https://www.concurrencylabs.com/img/posts/7-wordpress-1000/StepsForOptimizing.png](https://www.concurrencylabs.com/img/posts/7-wordpress-1000/StepsForOptimizing.png)
 

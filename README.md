@@ -1,32 +1,41 @@
-# iXDocs - External Collection
+# iXDocs \| External Collection
 
-•       AWS configuration and performance tuning
+## Familiarity and Understanding
 
-•       Experience with EC2, ECS, ALB, NLB, CloudWatch
+**Familiarity:** 
 
-•       Familiarity with Cloudformation/Terraform/Ansible or other IaaS Tools
+* [ ] Cloudformation
+* [ ] Terraform/Ansible
+* [ ]  IaaS Tools
+* [ ] AWS CDK
 
-•       AWS CDK
+**Understanding:** 
 
-•       Understanding of AWS Security and Application implementations of SSO - SAML / Oauth2
+* [ ]  Understanding of Microservices, REST
+* [ ] Cloudformation
+* [ ] Terraform/Ansible
+* [ ]  IaaS Tools
+* [ ] AWS Security and Application implementations of SSO - SAML / Oauth2
 
-•       Experience with configuring Network components \(DNS, routing, AWS, load balancers, …\)
+## EXPERIENCE
 
-•       Scripting and Application development experience in one or more of Python, .NET, PowerShell
+**Services:** 
 
-•       Understanding of Microservices, REST
+* [ ] EC2, ECS, ALB, NLB, CloudWatch
 
-•       Experience with Angular UI
+**Configuration:**
 
-•       Experience working with Jenkins, CI/CD/CO, or other tooling
+* [ ]  AWS configuration and performance tuning
+* [ ] configuring Network components \(DNS, routing, AWS, load balancers, …\)
+* [ ] Scripting and Application development experience in one or more of Python, .NET, PowerShell
 
-•       Experience with monitoring and debugging with tools like DataDog, PagerDuty
+**CI/CD:** 
 
-•       Experience with GIT /GITHUB
-
-•       Experience creating load test scripts with Jmeter
-
-•       Experience using and maintaining repository of dependencies with Artifactory
-
-•       Ticket management and documentation with Confluence/Jira/ServiceNow
+* [ ] Experience working with Jenkins, CI/CD/CO, or other tooling
+* [ ] Experience with GIT /GITHUB
+* [ ] Ticket management and documentation with Confluence/Jira/ServiceNow
+* [ ]  Experience with Angular UI
+* [ ]  Experience with monitoring and debugging with tools like DataDog, PagerDuty
+* [ ]  Experience creating load test scripts with Jmeter
+* [ ]  Experience using and maintaining repository of dependencies with Artifactory
 
