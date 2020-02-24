@@ -1,7 +1,5 @@
 # Docker
 
-
-
 ## Strategizing Containerization
 
 1. [Discovery](discovery/)

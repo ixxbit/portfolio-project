@@ -28,14 +28,15 @@
   * [AWS \| Infrastructure](cloud/aws/aws-or-infrastructure/README.md)
     * [EC2\|\|Jenkins Build Server](cloud/aws/aws-or-infrastructure/ec2-jenkins-build-server.md)
     * [Infra Diagrams](cloud/aws/aws-or-infrastructure/untitled-1.md)
-* [Docker](cloud/presentation-strategizing-containerization/README.md)
-  * [Strategizing Containerization](cloud/presentation-strategizing-containerization/discovery/README.md)
-    * [First Applications in Productions](cloud/presentation-strategizing-containerization/discovery/first-applications-in-productions.md)
-    * [Production at Scale](cloud/presentation-strategizing-containerization/discovery/production-at-scale.md)
-    * [Governance and Training](cloud/presentation-strategizing-containerization/discovery/governance-and-training.md)
-    * [Innovate](cloud/presentation-strategizing-containerization/discovery/innovate.md)
-  * [iX.E2E\|Docker](cloud/presentation-strategizing-containerization/walk-throughs/README.md)
-    * [Building and Pushing a docker image to aws ECR](cloud/presentation-strategizing-containerization/walk-throughs/building-and-pushing-a-docker-image-to-aws-ecr.md)
+* [Docker](docker/README.md)
+  * [Docker](docker/presentation-strategizing-containerization.md)
+  * [Strategizing Containerization](docker/discovery/README.md)
+    * [First Applications in Productions](docker/discovery/first-applications-in-productions.md)
+    * [Production at Scale](docker/discovery/production-at-scale.md)
+    * [Governance and Training](docker/discovery/governance-and-training.md)
+    * [Innovate](docker/discovery/innovate.md)
+  * [iX.E2E\|Docker](docker/walk-throughs/README.md)
+    * [Building and Pushing a docker image to aws ECR](docker/walk-throughs/building-and-pushing-a-docker-image-to-aws-ecr.md)
 
 ## DevOps <a id="devops-1"></a>
 
