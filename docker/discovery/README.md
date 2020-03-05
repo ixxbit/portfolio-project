@@ -14,7 +14,7 @@ description: 'Strategy: Container Platform'
 
 ### Build a business case
 
-![- capital expanditures - higher density](../../.gitbook/assets/image%20%2852%29.png)
+![- capital expanditures - higher density](../../.gitbook/assets/image%20%2853%29.png)
 
 
 

@@ -2,7 +2,7 @@
 description: Every SysAdmin Should Know
 ---
 
-# System Monitoring Tools
+# System-Based Monitoring Tools
 
 {% hint style="info" %}
 [_CentOS_](https://www.cyberciti.biz/tips/category/centos)_,_ [_Debian Linux_](https://www.cyberciti.biz/tips/category/debian-linux)_,_ [_Howto_](https://www.cyberciti.biz/tips/category/howto)_,_ [_Linux_](https://www.cyberciti.biz/tips/category/linux)_,_ [_Monitoring_](https://www.cyberciti.biz/tips/category/monitoring)_,_ [_Networking_](https://www.cyberciti.biz/tips/category/networking)_,_ [_RedHat/Fedora Linux_](https://www.cyberciti.biz/tips/category/redhatfedora-linux)_,_ [_Security_](https://www.cyberciti.biz/tips/category/security)_,_ [_Sys admin_](https://www.cyberciti.biz/tips/category/sys-admin)\_\_

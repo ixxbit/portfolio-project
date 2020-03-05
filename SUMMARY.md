@@ -4,13 +4,20 @@
 
 ## HANDY STUFF <a id="aws-common-config-tasks"></a>
 
-* [iXcmd](aws-common-config-tasks/useful-commands/README.md)
+* [CLI++](aws-common-config-tasks/useful-commands/README.md)
   * [AWS SDK](aws-common-config-tasks/useful-commands/aws-sdk.md)
+  * [MACOS](aws-common-config-tasks/useful-commands/macos/README.md)
+    * [Homebrew](aws-common-config-tasks/useful-commands/macos/homebrew/README.md)
+      * [Jenkins](aws-common-config-tasks/useful-commands/macos/homebrew/jenkins.md)
+      * [Jenkin Workflow](aws-common-config-tasks/useful-commands/macos/homebrew/jenkin-workflow.md)
   * [Linux](aws-common-config-tasks/useful-commands/linux/README.md)
-    * [chown](aws-common-config-tasks/useful-commands/linux/chown.md)
-    * [ps](aws-common-config-tasks/useful-commands/linux/ps.md)
-    * [System Monitoring Tools](aws-common-config-tasks/useful-commands/linux/system-monitoring-tools.md)
-    * [iXEssentials.cmd](aws-common-config-tasks/useful-commands/linux/ixessentials.cmd.md)
+    * [Alphabetically](aws-common-config-tasks/useful-commands/linux/alphabetically/README.md)
+      * [chown](aws-common-config-tasks/useful-commands/linux/alphabetically/chown.md)
+      * [ps](aws-common-config-tasks/useful-commands/linux/alphabetically/ps.md)
+    * [commonly used...](aws-common-config-tasks/useful-commands/linux/commonly-used.../README.md)
+      * [System-Based Monitoring Tools](aws-common-config-tasks/useful-commands/linux/commonly-used.../system-monitoring-tools.md)
+      * [The Essentials](aws-common-config-tasks/useful-commands/linux/commonly-used.../the-essentials.md)
+    * [other sources](aws-common-config-tasks/useful-commands/linux/other-sources.md)
 * [FAQ](aws-common-config-tasks/faq.md)
 
 ## CLOUD PLATFORMS <a id="cloud"></a>
@@ -47,4 +54,9 @@
 
 * [DevOps Tools](devops-1/devops-tools/README.md)
   * [Configuration Management Tools](devops-1/devops-tools/configuration-management-tools.md)
+
+## QA \| Automation
+
+* [Test Case Examples](qa-or-automation/test-case-examples.md)
+* [Continuous Integration with Jenkins](qa-or-automation/continuous-integration-with-jenkins.md)
 

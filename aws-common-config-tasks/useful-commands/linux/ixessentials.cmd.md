@@ -1,4 +1,0 @@
-# iXEssentials.cmd
-
-## 
-

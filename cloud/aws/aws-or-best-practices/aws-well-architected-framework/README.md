@@ -6,7 +6,7 @@ description: 'Learn, measure, and build using architectural best practices'
 
 [**AWS Architecture Center**](https://aws.amazon.com/architecture/?solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc&whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&reference-architecture.sort-by=item.additionalFields.sortDate&reference-architecture.sort-order=desc) **\|** [**This is My Architecture**](https://aws.amazon.com/this-is-my-architecture/?tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc) **\|** [**AWS Solutions**](https://aws.amazon.com/solutions/?solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc)\*\*\*\*
 
-![Five pillars in forming the awsWell-architected framework](../../../../.gitbook/assets/image%20%2855%29.png)
+![Five pillars in forming the awsWell-architected framework](../../../../.gitbook/assets/image%20%2856%29.png)
 
 ### AWS Well-Architected <a id="AWS_Well-Architected"></a>
 

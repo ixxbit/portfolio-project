@@ -1,4 +1,8 @@
-# iXcmd
+---
+description: 'command line sources, commands, examples, etc'
+---
+
+# CLI++
 
 ## Getting Super Powers
 
