@@ -24,17 +24,17 @@ description: WHICH IS BETTER FOR YOUR OPERATIONS ENVIRONMENT?
 
 ![CHEF](../../.gitbook/assets/image%20%281%29.png)
 
-![](../../.gitbook/assets/image%20%2845%29.png)
+![](../../.gitbook/assets/image%20%2849%29.png)
 
 ![](../../.gitbook/assets/image%20%2814%29.png)
 {% endtab %}
 
 {% tab title="PUPPET" %}
-![](../../.gitbook/assets/image%20%2849%29.png)
+![](../../.gitbook/assets/image%20%2854%29.png)
 
 
 
-![](../../.gitbook/assets/image%20%2840%29.png)
+![](../../.gitbook/assets/image%20%2844%29.png)
 
 ![](../../.gitbook/assets/image%20%2819%29.png)
 {% endtab %}
@@ -42,7 +42,7 @@ description: WHICH IS BETTER FOR YOUR OPERATIONS ENVIRONMENT?
 {% tab title="ANSIBLE" %}
 ![](../../.gitbook/assets/image%20%283%29.png)
 
-![](../../.gitbook/assets/image%20%2828%29.png)
+![](../../.gitbook/assets/image%20%2829%29.png)
 
 ![](../../.gitbook/assets/image%20%2811%29.png)
 {% endtab %}

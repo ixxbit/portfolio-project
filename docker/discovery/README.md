@@ -14,7 +14,7 @@ description: 'Strategy: Container Platform'
 
 ### Build a business case
 
-![- capital expanditures - higher density](../../.gitbook/assets/image%20%2853%29.png)
+![- capital expanditures - higher density](../../.gitbook/assets/image%20%2858%29.png)
 
 
 
@@ -26,13 +26,13 @@ description: 'Strategy: Container Platform'
 
 -
 
-![](../../.gitbook/assets/image%20%2836%29.png)
+![](../../.gitbook/assets/image%20%2839%29.png)
 
-![](../../.gitbook/assets/image%20%2830%29.png)
+![](../../.gitbook/assets/image%20%2831%29.png)
 
-![Score card used to see if containerization is worth it for each scenario](../../.gitbook/assets/image%20%2829%29.png)
+![Score card used to see if containerization is worth it for each scenario](../../.gitbook/assets/image%20%2830%29.png)
 
-![](../../.gitbook/assets/image%20%2833%29.png)
+![](../../.gitbook/assets/image%20%2835%29.png)
 
 ![](../../.gitbook/assets/image%20%287%29.png)
 

@@ -39,6 +39,7 @@
     * [NLB](cloud/aws/aws-services/nlb.md)
     * [AWS Elastic Beansalk](cloud/aws/aws-services/aws-elastic-beansalk.md)
   * [AWS \| Infrastructure](cloud/aws/aws-or-infrastructure/README.md)
+    * [VPN Architecture Components](cloud/aws/aws-or-infrastructure/vpn-architecture-components.md)
     * [EC2\|\|Jenkins Build Server](cloud/aws/aws-or-infrastructure/ec2-jenkins-build-server.md)
     * [Infra Diagrams](cloud/aws/aws-or-infrastructure/untitled-1.md)
 * [Docker](docker/README.md)
