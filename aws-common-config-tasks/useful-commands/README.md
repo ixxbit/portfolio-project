@@ -2,7 +2,7 @@
 description: 'command line sources, commands, examples, etc'
 ---
 
-# CLI++
+# TERMINAL & COMMANDS
 
 ## Getting Super Powers
 
