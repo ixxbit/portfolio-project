@@ -8,11 +8,11 @@ Related tasks: [AWS \| labs](../aws-or-labs/labs.md)
 
 ## KEY POINTS
 
-![](../../../.gitbook/assets/image%20%2887%29.png)
+![](../../../.gitbook/assets/image%20%2891%29.png)
 
 ## I. SPECIFY VPN NETWORK/SUBNET
 
-![](../../../.gitbook/assets/image%20%2857%29.png)
+![](../../../.gitbook/assets/image%20%2859%29.png)
 
 * My VPC main network subnet is larger enough /16
 * Make noticeable subnet ranges between timezones 
@@ -26,7 +26,7 @@ Related tasks: [AWS \| labs](../aws-or-labs/labs.md)
 
 ### Scenario 1: Local communication
 
-![](../../../.gitbook/assets/image%20%28110%29.png)
+![](../../../.gitbook/assets/image%20%28115%29.png)
 
 * it's obvios that 10.0.3.48 is part of the the local network \(source\) so it gets routed from subnet a to subnet b.
 
@@ -76,13 +76,13 @@ When subnet systems communicate with each other:
 2. This will be denied because it is not specified in the rule entries on its associated private route table
 3. Conclusion: this subnet is private only because it's not allowed to communicate with external sources.
 
-![](../../../.gitbook/assets/image%20%2866%29.png)
+![](../../../.gitbook/assets/image%20%2869%29.png)
 
 ## III. ENABLE PUBLIC 
 
 EC2 should also have a public IP address associated with it.
 
-![](../../../.gitbook/assets/image%20%2881%29.png)
+![](../../../.gitbook/assets/image%20%2885%29.png)
 
 
 
@@ -106,9 +106,9 @@ NAT Gateway is used when you do NOT want inbound traffic to your system, but you
 
 ## IV. ENABLE VPC ENDPOINTS
 
-![](../../../.gitbook/assets/image%20%2851%29.png)
+![](../../../.gitbook/assets/image%20%2853%29.png)
 
 ## V. ENABLE VPC ENDPOINTS
 
-![](../../../.gitbook/assets/image%20%2861%29.png)
+![](../../../.gitbook/assets/image%20%2863%29.png)
 

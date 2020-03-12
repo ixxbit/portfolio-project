@@ -4,13 +4,13 @@
 
 * Each microservice has its own resources dependently of the overall system
 
-![](../../../../.gitbook/assets/image%20%2873%29.png)
+![](../../../../.gitbook/assets/image%20%2877%29.png)
 
 Monolithic Architecture: one component goes down and the whole system goes down
 
 ## Microservice Advantages
 
-![](../../../../.gitbook/assets/image%20%2874%29.png)
+![](../../../../.gitbook/assets/image%20%2878%29.png)
 
 ![](../../../../.gitbook/assets/image%20%2838%29.png)
 

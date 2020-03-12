@@ -1,6 +1,6 @@
 # AWS E2E: Online Store
 
-![](../../../.gitbook/assets/image%20%2895%29.png)
+![](../../../.gitbook/assets/image%20%28100%29.png)
 
 ## I. CREATE VPC
 
@@ -16,9 +16,9 @@
    2. Add internet Gateway to the public Route Table
       1. in Routes add 0.0.0.0/0 and select the Internet Gateway
 
-![4.1.1](../../../.gitbook/assets/image%20%2891%29.png)
+![4.1.1](../../../.gitbook/assets/image%20%2895%29.png)
 
-![](../../../.gitbook/assets/image%20%28106%29.png)
+![](../../../.gitbook/assets/image%20%28111%29.png)
 
 ## II. CREATE EC2 INSTANCE - Web Server
 
@@ -66,7 +66,7 @@ Services &gt; Databases &gt; RDS &gt; Get Started &gt; MySQL &gt; Select Dev/Tes
 
 ![](../../../.gitbook/assets/image%20%2834%29.png)
 
-![](../../../.gitbook/assets/image%20%2882%29.png)
+![](../../../.gitbook/assets/image%20%2886%29.png)
 
 
 
@@ -86,7 +86,7 @@ Services &gt; Databases &gt; RDS &gt; Get Started &gt; MySQL &gt; Select Dev/Tes
 * ELB-SG
 * We are only opening port 80
 
-![](../../../.gitbook/assets/image%20%28111%29.png)
+![](../../../.gitbook/assets/image%20%28116%29.png)
 
 ### Configuring Health Check
 
