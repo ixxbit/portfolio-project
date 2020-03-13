@@ -98,3 +98,8 @@
     * [Become an Expert at Python](computer-science/python/python-or-best-practices/become-an-expert-at-python.md)
     * [Python \| common](computer-science/python/python-or-best-practices/python-or-common.md)
 
+## GEEK READS & TRENDS
+
+* [Blog Articles](geek-reads-and-trends/blog-articles.md)
+* [MAC Programming Tools](geek-reads-and-trends/mac-programming-tools.md)
+
