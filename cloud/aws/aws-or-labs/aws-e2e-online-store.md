@@ -1,6 +1,6 @@
 # AWS E2E: Online Store
 
-![](../../../.gitbook/assets/image%20%28100%29.png)
+![](../../../.gitbook/assets/image%20%28101%29.png)
 
 ## I. CREATE VPC
 
@@ -16,9 +16,9 @@
    2. Add internet Gateway to the public Route Table
       1. in Routes add 0.0.0.0/0 and select the Internet Gateway
 
-![4.1.1](../../../.gitbook/assets/image%20%2895%29.png)
+![4.1.1](../../../.gitbook/assets/image%20%2896%29.png)
 
-![](../../../.gitbook/assets/image%20%28111%29.png)
+![](../../../.gitbook/assets/image%20%28112%29.png)
 
 ## II. CREATE EC2 INSTANCE - Web Server
 
@@ -56,7 +56,7 @@ Create a subscription. From Topics, for the new topic created click create Creat
 
 ONLY servers that have this security group attached are the only servers that will have access my database
 
-![](../../../.gitbook/assets/image%20%2831%29.png)
+![](../../../.gitbook/assets/image%20%2832%29.png)
 
 ### 2. Create your DB Services
 
@@ -64,9 +64,9 @@ Services &gt; Databases &gt; RDS &gt; Get Started &gt; MySQL &gt; Select Dev/Tes
 
 * note if you select Production it will do multi-edging
 
-![](../../../.gitbook/assets/image%20%2834%29.png)
+![](../../../.gitbook/assets/image%20%2835%29.png)
 
-![](../../../.gitbook/assets/image%20%2886%29.png)
+![](../../../.gitbook/assets/image%20%2887%29.png)
 
 
 
@@ -86,7 +86,7 @@ Services &gt; Databases &gt; RDS &gt; Get Started &gt; MySQL &gt; Select Dev/Tes
 * ELB-SG
 * We are only opening port 80
 
-![](../../../.gitbook/assets/image%20%28116%29.png)
+![](../../../.gitbook/assets/image%20%28117%29.png)
 
 ### Configuring Health Check
 

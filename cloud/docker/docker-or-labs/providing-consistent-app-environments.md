@@ -10,13 +10,13 @@ Favorable environment: where the tree is being watered and nourished in an adequ
 
 Unfit environment: the required dependencies for growing the tree not present then the tree will die.
 
-![](../../../.gitbook/assets/image%20%2832%29.png)
+![](../../../.gitbook/assets/image%20%2833%29.png)
 
 
 
 When application runs on an inconsistent environment that doesn't support the application dependencies, then the app will fail.
 
-![](../../../.gitbook/assets/image%20%2882%29.png)
+![](../../../.gitbook/assets/image%20%2883%29.png)
 
 * Say the application passed when tested on the Test server, however it failed when deployed on the Production Server
 
@@ -28,7 +28,7 @@ When application runs on an inconsistent environment that doesn't support the ap
 
  iteploy an application using docker
 
-![](../../../.gitbook/assets/image%20%28117%29.png)
+![](../../../.gitbook/assets/image%20%28118%29.png)
 
 * Each microservice is defined by a Dockerfile 
 

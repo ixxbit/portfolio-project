@@ -6,7 +6,7 @@ description: Setup and Configure Your AWS VPC
 
 ## 1. Create VP
 
-![](../../../.gitbook/assets/image%20%28105%29.png)
+![](../../../.gitbook/assets/image%20%28106%29.png)
 
 {% hint style="warning" %}
 By default, when you create a VPC, it doesn't do DNS hostnames resolutions
@@ -47,19 +47,19 @@ _by default, when creating route tables they have local access within vpn_
 
 ## _4. Create EC2_
 
-![](../../../.gitbook/assets/image%20%2871%29.png)
+![](../../../.gitbook/assets/image%20%2872%29.png)
 
 ![](../../../.gitbook/assets/image%20%2814%29.png)
 
-![](../../../.gitbook/assets/image%20%2890%29.png)
+![](../../../.gitbook/assets/image%20%2891%29.png)
 
 ### _Create Security Groups_
 
-![](../../../.gitbook/assets/image%20%2889%29.png)
+![](../../../.gitbook/assets/image%20%2890%29.png)
 
-![](../../../.gitbook/assets/image%20%2845%29.png)
+![](../../../.gitbook/assets/image%20%2846%29.png)
 
-![](../../../.gitbook/assets/image%20%28122%29.png)
+![](../../../.gitbook/assets/image%20%28123%29.png)
 
 ![](../../../.gitbook/assets/image%20%285%29.png)
 

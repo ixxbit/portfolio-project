@@ -8,11 +8,11 @@ Related tasks: [AWS \| labs](../aws-or-labs/labs.md)
 
 ## KEY POINTS
 
-![](../../../.gitbook/assets/image%20%2891%29.png)
+![](../../../.gitbook/assets/image%20%2892%29.png)
 
 ## I. SPECIFY VPN NETWORK/SUBNET
 
-![](../../../.gitbook/assets/image%20%2859%29.png)
+![](../../../.gitbook/assets/image%20%2860%29.png)
 
 * My VPC main network subnet is larger enough /16
 * Make noticeable subnet ranges between timezones 
@@ -26,20 +26,20 @@ Related tasks: [AWS \| labs](../aws-or-labs/labs.md)
 
 ### Scenario 1: Local communication
 
-![](../../../.gitbook/assets/image%20%28115%29.png)
+![](../../../.gitbook/assets/image%20%28116%29.png)
 
 * it's obvios that 10.0.3.48 is part of the the local network \(source\) so it gets routed from subnet a to subnet b.
 
 ### Scenario 2: Public communication
 
-![](../../../.gitbook/assets/image%20%2835%29.png)
+![](../../../.gitbook/assets/image%20%2836%29.png)
 
 * 53.19.1.4 is not part of the local subnet 10.0.0.0/16 -- RESULT: No MATCH
 * The other rule entry says that any IP address \(from 0.0.0.0/0\) will be sent to IGW
 
 ### Scenario 3: Public  and Private Route Tables
 
-![](../../../.gitbook/assets/image%20%2839%29.png)
+![](../../../.gitbook/assets/image%20%2840%29.png)
 
 #### Public Route Table
 
@@ -76,13 +76,13 @@ When subnet systems communicate with each other:
 2. This will be denied because it is not specified in the rule entries on its associated private route table
 3. Conclusion: this subnet is private only because it's not allowed to communicate with external sources.
 
-![](../../../.gitbook/assets/image%20%2869%29.png)
+![](../../../.gitbook/assets/image%20%2870%29.png)
 
 ## III. ENABLE PUBLIC 
 
 EC2 should also have a public IP address associated with it.
 
-![](../../../.gitbook/assets/image%20%2885%29.png)
+![](../../../.gitbook/assets/image%20%2886%29.png)
 
 
 
@@ -98,7 +98,7 @@ EC2 should also have a public IP address associated with it.
 
 NAT Gateway is used when you do NOT want inbound traffic to your system, but you need outbound, i.e. requesting web server updaes.
 
-![](../../../.gitbook/assets/image%20%2841%29.png)
+![](../../../.gitbook/assets/image%20%2842%29.png)
 
 * The private route now has an entry entry from any sources.
 * The NAT checks with the route table associated w/then then forwards the request from 10.0.3.48 out externally.
@@ -106,9 +106,9 @@ NAT Gateway is used when you do NOT want inbound traffic to your system, but you
 
 ## IV. ENABLE VPC ENDPOINTS
 
-![](../../../.gitbook/assets/image%20%2853%29.png)
+![](../../../.gitbook/assets/image%20%2854%29.png)
 
 ## V. ENABLE VPC ENDPOINTS
 
-![](../../../.gitbook/assets/image%20%2863%29.png)
+![](../../../.gitbook/assets/image%20%2864%29.png)
 

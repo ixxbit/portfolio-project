@@ -1,6 +1,6 @@
 # Jenkins
 
-![](../../.gitbook/assets/image%20%2833%29.png)
+![](../../.gitbook/assets/image%20%2834%29.png)
 
 Jenkins is open source and uses plugins such as the build pipeline which let's you graphically visual the output.
 

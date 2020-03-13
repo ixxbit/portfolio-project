@@ -2,19 +2,19 @@
 
 source: [https://www.youtube.com/watch?v=LX5lHYGFcnA](https://www.youtube.com/watch?v=LX5lHYGFcnA)
 
-![](../../../.gitbook/assets/image%20%2893%29.png)
+![](../../../.gitbook/assets/image%20%2894%29.png)
 
 ## VPC
 
 
 
-![](../../../.gitbook/assets/image%20%2852%29.png)
+![](../../../.gitbook/assets/image%20%2853%29.png)
 
 VPC is composed of multiple private and public subnets within Availability Zones throughout an AWS Region.
 
 ## Route Table
 
-![Route Table ](../../../.gitbook/assets/image%20%2884%29.png)
+![Route Table ](../../../.gitbook/assets/image%20%2885%29.png)
 
 1. Route table specifies how **system B** can communicate with **system A**.
 2. Router routes pockets accordingly.
@@ -23,7 +23,7 @@ VPC is composed of multiple private and public subnets within Availability Zones
 
 ## Elastic IP
 
-![](../../../.gitbook/assets/image%20%28112%29.png)
+![](../../../.gitbook/assets/image%20%28113%29.png)
 
 * Is a static public IP address that points to your Elastic Network Interfaces \(ENI card\)
 
@@ -36,17 +36,17 @@ Whenever assigning static/dynamic IP address to EC2, you  always asign it to an 
 
 ## Internet Gateway
 
-![](../../../.gitbook/assets/image%20%2875%29.png)
+![](../../../.gitbook/assets/image%20%2876%29.png)
 
 A door at your VPC that allows inbound/outbound communication with your VPC components, i.e. a web server
 
 ## NAT Gateway
 
-![](../../../.gitbook/assets/image%20%2883%29.png)
+![](../../../.gitbook/assets/image%20%2884%29.png)
 
 ## VPN Connection
 
-![](../../../.gitbook/assets/image%20%2881%29.png)
+![](../../../.gitbook/assets/image%20%2882%29.png)
 
 Three components to create a VPN connection
 
@@ -68,7 +68,7 @@ The router/gateway on the aws VPC
 
 ￼ ￼￼￼
 
-![](../../../.gitbook/assets/image%20%28104%29.png)
+![](../../../.gitbook/assets/image%20%28105%29.png)
 
  ￼￼ ￼
 
@@ -81,13 +81,13 @@ The router/gateway on the aws VPC
 
 ## VPC Peering
 
-![](../../../.gitbook/assets/image%20%28114%29.png)
+![](../../../.gitbook/assets/image%20%28115%29.png)
 
 Send a request from one VPC to another and accept request to get connected.
 
 ## VPC Endpoints
 
-![](../../../.gitbook/assets/image%20%2829%29.png)
+![](../../../.gitbook/assets/image%20%2830%29.png)
 
 Connectivity that allows you to connect to certain AWS services privately i.e. EC2 with S3
 
