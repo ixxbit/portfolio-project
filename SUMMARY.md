@@ -17,6 +17,7 @@
     * [Alphabetically](aws-common-config-tasks/useful-commands/linux/alphabetically/README.md)
       * [chown](aws-common-config-tasks/useful-commands/linux/alphabetically/chown.md)
       * [ps](aws-common-config-tasks/useful-commands/linux/alphabetically/ps.md)
+      * [USB - Mount Points](aws-common-config-tasks/useful-commands/linux/alphabetically/usb-mount-points.md)
     * [Scripts](aws-common-config-tasks/useful-commands/linux/scripts.md)
     * [commonly used...](aws-common-config-tasks/useful-commands/linux/commonly-used.../README.md)
       * [System-Based Monitoring Tools](aws-common-config-tasks/useful-commands/linux/commonly-used.../system-monitoring-tools.md)
