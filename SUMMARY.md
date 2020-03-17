@@ -93,6 +93,12 @@
 
 ## Computer Science
 
+* [DJANGO](computer-science/django/README.md)
+  * [Django Project MVT Structure](computer-science/django/django-project-mvt-structure.md)
+* [PROGRAMMING](computer-science/programming/README.md)
+  * [Project Ideas](computer-science/programming/project-ideas/README.md)
+    * [Untitled](computer-science/programming/project-ideas/untitled.md)
+  * [Dynamic Programming: From Zero to Hero](computer-science/programming/dynamic-programming-from-zero-to-hero.md)
 * [PYTHON](computer-science/python/README.md)
   * [Python \| best practices](computer-science/python/python-or-best-practices/README.md)
     * [Tips And Tricks](computer-science/python/python-or-best-practices/tips-and-tricks.md)
