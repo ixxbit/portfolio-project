@@ -100,6 +100,8 @@
     * [Untitled](computer-science/programming/project-ideas/untitled.md)
   * [Dynamic Programming: From Zero to Hero](computer-science/programming/dynamic-programming-from-zero-to-hero.md)
 * [PYTHON](computer-science/python/README.md)
+  * [Mini-Projects](computer-science/python/mini-projects/README.md)
+    * [Download Instagram profile pic using Python](computer-science/python/mini-projects/download-instagram-profile-pic-using-python.md)
   * [Python \| best practices](computer-science/python/python-or-best-practices/README.md)
     * [Tips And Tricks](computer-science/python/python-or-best-practices/tips-and-tricks.md)
     * [Become an Expert at Python](computer-science/python/python-or-best-practices/become-an-expert-at-python.md)
