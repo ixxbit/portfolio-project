@@ -2,9 +2,9 @@
 
 
 
-![](../../../../../.gitbook/assets/image%20%28126%29.png)
+![](../../../../../.gitbook/assets/image%20%28127%29.png)
 
-![](../../../../../.gitbook/assets/image%20%28129%29.png)
+![](../../../../../.gitbook/assets/image%20%28130%29.png)
 
 I. Assessment - evaluate team assessments and decide what's setup is propper for them.
 

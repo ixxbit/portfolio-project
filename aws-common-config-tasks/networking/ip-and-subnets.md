@@ -8,11 +8,11 @@ subnet calculator: [http://jodies.de/ipcalc](http://jodies.de/ipcalc)
 
 ![](../../.gitbook/assets/image%20%2855%29.png)
 
-![](../../.gitbook/assets/image%20%28111%29.png)
+![](../../.gitbook/assets/image%20%28112%29.png)
 
 ## PRIVATE SUBNETTING
 
-![](../../.gitbook/assets/image%20%28128%29.png)
+![](../../.gitbook/assets/image%20%28129%29.png)
 
 
 

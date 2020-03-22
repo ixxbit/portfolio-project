@@ -1,2 +1,2 @@
-# AWS \| Infrastructure
+# AWS \| infrastructure
 

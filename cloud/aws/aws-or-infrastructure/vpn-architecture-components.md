@@ -23,7 +23,7 @@ VPC is composed of multiple private and public subnets within Availability Zones
 
 ## Elastic IP
 
-![](../../../.gitbook/assets/image%20%28113%29.png)
+![](../../../.gitbook/assets/image%20%28114%29.png)
 
 * Is a static public IP address that points to your Elastic Network Interfaces \(ENI card\)
 
@@ -68,7 +68,7 @@ The router/gateway on the aws VPC
 
 ￼ ￼￼￼
 
-![](../../../.gitbook/assets/image%20%28105%29.png)
+![](../../../.gitbook/assets/image%20%28106%29.png)
 
  ￼￼ ￼
 
@@ -81,7 +81,7 @@ The router/gateway on the aws VPC
 
 ## VPC Peering
 
-![](../../../.gitbook/assets/image%20%28115%29.png)
+![](../../../.gitbook/assets/image%20%28116%29.png)
 
 Send a request from one VPC to another and accept request to get connected.
 

@@ -6,7 +6,7 @@ description: Setup and Configure Your AWS VPC
 
 ## 1. Create VP
 
-![](../../../.gitbook/assets/image%20%28106%29.png)
+![](../../../.gitbook/assets/image%20%28107%29.png)
 
 {% hint style="warning" %}
 By default, when you create a VPC, it doesn't do DNS hostnames resolutions
@@ -59,7 +59,7 @@ _by default, when creating route tables they have local access within vpn_
 
 ![](../../../.gitbook/assets/image%20%2846%29.png)
 
-![](../../../.gitbook/assets/image%20%28123%29.png)
+![](../../../.gitbook/assets/image%20%28124%29.png)
 
 ![](../../../.gitbook/assets/image%20%285%29.png)
 

@@ -26,7 +26,7 @@ Related tasks: [AWS \| labs](../aws-or-labs/labs.md)
 
 ### Scenario 1: Local communication
 
-![](../../../.gitbook/assets/image%20%28116%29.png)
+![](../../../.gitbook/assets/image%20%28117%29.png)
 
 * it's obvios that 10.0.3.48 is part of the the local network \(source\) so it gets routed from subnet a to subnet b.
 

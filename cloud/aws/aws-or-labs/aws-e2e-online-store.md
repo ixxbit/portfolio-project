@@ -1,6 +1,6 @@
 # AWS E2E: Online Store
 
-![](../../../.gitbook/assets/image%20%28101%29.png)
+![](../../../.gitbook/assets/image%20%28102%29.png)
 
 ## I. CREATE VPC
 
@@ -18,7 +18,7 @@
 
 ![4.1.1](../../../.gitbook/assets/image%20%2896%29.png)
 
-![](../../../.gitbook/assets/image%20%28112%29.png)
+![](../../../.gitbook/assets/image%20%28113%29.png)
 
 ## II. CREATE EC2 INSTANCE - Web Server
 
@@ -86,7 +86,7 @@ Services &gt; Databases &gt; RDS &gt; Get Started &gt; MySQL &gt; Select Dev/Tes
 * ELB-SG
 * We are only opening port 80
 
-![](../../../.gitbook/assets/image%20%28117%29.png)
+![](../../../.gitbook/assets/image%20%28118%29.png)
 
 ### Configuring Health Check
 

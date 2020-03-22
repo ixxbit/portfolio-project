@@ -24,17 +24,17 @@ description: WHICH IS BETTER FOR YOUR OPERATIONS ENVIRONMENT?
 
 ![CHEF](../../.gitbook/assets/image%20%2811%29.png)
 
-![](../../.gitbook/assets/image%20%28109%29.png)
+![](../../.gitbook/assets/image%20%28110%29.png)
 
 ![](../../.gitbook/assets/image%20%2829%29.png)
 {% endtab %}
 
 {% tab title="PUPPET" %}
-![](../../.gitbook/assets/image%20%28120%29.png)
+![](../../.gitbook/assets/image%20%28121%29.png)
 
 
 
-![](../../.gitbook/assets/image%20%2898%29.png)
+![](../../.gitbook/assets/image%20%2899%29.png)
 
 ![](../../.gitbook/assets/image%20%2845%29.png)
 {% endtab %}

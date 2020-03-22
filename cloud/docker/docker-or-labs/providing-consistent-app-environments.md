@@ -28,7 +28,7 @@ When application runs on an inconsistent environment that doesn't support the ap
 
  iteploy an application using docker
 
-![](../../../.gitbook/assets/image%20%28118%29.png)
+![](../../../.gitbook/assets/image%20%28119%29.png)
 
 * Each microservice is defined by a Dockerfile 
 
