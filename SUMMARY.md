@@ -27,6 +27,7 @@
       * [Jenkin Workflow](aws-common-config-tasks/useful-commands/macos/homebrew/jenkin-workflow.md)
   * [Linux](aws-common-config-tasks/useful-commands/linux/README.md)
     * [Alphabetically](aws-common-config-tasks/useful-commands/linux/alphabetically/README.md)
+      * [Bash Aliases](aws-common-config-tasks/useful-commands/linux/alphabetically/bash-aliases.md)
       * [dd](aws-common-config-tasks/useful-commands/linux/alphabetically/dd.md)
       * [diskutil](aws-common-config-tasks/useful-commands/linux/alphabetically/diskutil.md)
       * [chown](aws-common-config-tasks/useful-commands/linux/alphabetically/chown.md)
@@ -40,7 +41,8 @@
       * [The Essentials](aws-common-config-tasks/useful-commands/linux/commonly-used.../the-essentials.md)
     * [other sources](aws-common-config-tasks/useful-commands/linux/other-sources.md)
 * [FAQ](aws-common-config-tasks/faq.md)
-* [Prototyping & Ideas](aws-common-config-tasks/prototyping-and-ideas.md)
+* [Prototyping & Ideas](aws-common-config-tasks/prototyping-and-ideas/README.md)
+  * [Matt's Blog](aws-common-config-tasks/prototyping-and-ideas/matts-blog.md)
 
 ## CLOUD PLATFORMS <a id="cloud"></a>
 
