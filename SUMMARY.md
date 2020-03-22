@@ -27,6 +27,8 @@
       * [Jenkin Workflow](aws-common-config-tasks/useful-commands/macos/homebrew/jenkin-workflow.md)
   * [Linux](aws-common-config-tasks/useful-commands/linux/README.md)
     * [How-To's](aws-common-config-tasks/useful-commands/linux/how-tos/README.md)
+      * [Environment in Linux](aws-common-config-tasks/useful-commands/linux/how-tos/environment-in-linux/README.md)
+        * [Adding a Directory to PATH](aws-common-config-tasks/useful-commands/linux/how-tos/environment-in-linux/adding-a-directory-to-path.md)
       * [Root User](aws-common-config-tasks/useful-commands/linux/how-tos/root-user/README.md)
         * [En/Disabling Root User Account](aws-common-config-tasks/useful-commands/linux/how-tos/root-user/en-disabling-root-user-account.md)
         * [Changing Root Password](aws-common-config-tasks/useful-commands/linux/how-tos/root-user/changing-root-password.md)
