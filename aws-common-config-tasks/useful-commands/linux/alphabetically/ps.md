@@ -24,7 +24,7 @@ _ref:_ [_https://apple.stackexchange.com/questions/58697/how-does-stuck-in-resul
 
 `ps aux` or you could sort the list of process when you open top, for example: Sort by memory usage: `top -o rsize` Sort by CPU usage: `top -o cpu` It's not exactly the whole list
 
- use `top -l 1`. `-l` is for "logging mode" and the one is for how many samples to output.
+
 
 ----------  
 if you are using ps, you can check the manual
@@ -49,4 +49,12 @@ ps -e -o "uid pid pcpu pmem wq comm" | grep 501
 
 this should \(almost\) show only for userid 501. try it.  
 
+
+
+
+### `ps -aux`
+
+list all processes running from all users, -ux will list only processes of current user
+
+\`\`
 
