@@ -99,6 +99,7 @@
     * [Tips and Tricks](cloud/docker/docker-or-best-pracitices/tips-and-tricks.md)
   * [Docker \| labs](cloud/docker/docker-or-labs/README.md)
     * [Getting Started](cloud/docker/docker-or-labs/getting-started/README.md)
+      * [Method 1](cloud/docker/docker-or-labs/getting-started/method-1.md)
       * [Jenkins: Installation and Configuration](cloud/docker/docker-or-labs/getting-started/jenkins-installation-and-configuration.md)
     * [Providing Consistent App Environments](cloud/docker/docker-or-labs/providing-consistent-app-environments.md)
   * [Docker \| 101](cloud/docker/docker-or-101/README.md)
