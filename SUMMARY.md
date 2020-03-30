@@ -41,6 +41,7 @@
       * [diskutil](aws-common-config-tasks/useful-commands/linux/alphabetically/diskutil.md)
       * [/etc/shadow File](aws-common-config-tasks/useful-commands/linux/alphabetically/etc-shadow-file.md)
       * [chown](aws-common-config-tasks/useful-commands/linux/alphabetically/chown.md)
+      * [ifconfig](aws-common-config-tasks/useful-commands/linux/alphabetically/ifconfig.md)
       * [Find strings with grep](aws-common-config-tasks/useful-commands/linux/alphabetically/find-strings-with-grep/README.md)
         * [How to Find](aws-common-config-tasks/useful-commands/linux/alphabetically/find-strings-with-grep/how-to-find.md)
         * [How to Find](aws-common-config-tasks/useful-commands/linux/alphabetically/find-strings-with-grep/how-to-find-1.md)
