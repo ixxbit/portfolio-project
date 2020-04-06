@@ -42,6 +42,9 @@
       * [diskutil](aws-common-config-tasks/useful-commands/linux/alphabetically/diskutil.md)
       * [/etc/shadow File](aws-common-config-tasks/useful-commands/linux/alphabetically/etc-shadow-file.md)
       * [chown](aws-common-config-tasks/useful-commands/linux/alphabetically/chown.md)
+      * [Grep](aws-common-config-tasks/useful-commands/linux/alphabetically/grep-1.md)
+      * [grep](aws-common-config-tasks/useful-commands/linux/alphabetically/grep.md)
+      * [Untitled](aws-common-config-tasks/useful-commands/linux/alphabetically/untitled-1.md)
       * [ifconfig](aws-common-config-tasks/useful-commands/linux/alphabetically/ifconfig.md)
       * [Find strings with grep](aws-common-config-tasks/useful-commands/linux/alphabetically/find-strings-with-grep/README.md)
         * [How to Find](aws-common-config-tasks/useful-commands/linux/alphabetically/find-strings-with-grep/how-to-find.md)
@@ -64,6 +67,7 @@
       * [Basic Linux Commands](aws-common-config-tasks/useful-commands/linux/commonly-used.../untitled.md)
     * [other sources](aws-common-config-tasks/useful-commands/linux/other-sources.md)
 * [FAQ](aws-common-config-tasks/faq.md)
+* [Related Publications](aws-common-config-tasks/related-publications.md)
 * [Prototyping & Ideas](aws-common-config-tasks/prototyping-and-ideas/README.md)
   * [Matt's Blog](aws-common-config-tasks/prototyping-and-ideas/matts-blog.md)
 
