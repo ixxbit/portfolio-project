@@ -21,6 +21,7 @@
   * [Untitled](aws-common-config-tasks/useful-commands/untitled-1.md)
   * [AWS SDK](aws-common-config-tasks/useful-commands/aws-sdk.md)
   * [MACOS](aws-common-config-tasks/useful-commands/macos/README.md)
+    * [Oh My Zsh Cheat Sheet](aws-common-config-tasks/useful-commands/macos/zsh-command.md)
     * [Keyboard Shortcuts](aws-common-config-tasks/useful-commands/macos/keyboard.md)
     * [Homebrew](aws-common-config-tasks/useful-commands/macos/homebrew/README.md)
       * [Jenkins](aws-common-config-tasks/useful-commands/macos/homebrew/jenkins.md)
